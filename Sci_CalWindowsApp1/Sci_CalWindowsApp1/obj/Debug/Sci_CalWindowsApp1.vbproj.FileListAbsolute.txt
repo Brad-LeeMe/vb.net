@@ -9,3 +9,14 @@ D:\Visual Studio 2019\Windows Applications\Sci_CalWindowsApp1\Sci_CalWindowsApp1
 D:\Visual Studio 2019\Windows Applications\Sci_CalWindowsApp1\Sci_CalWindowsApp1\obj\Debug\Sci_CalWindowsApp1.exe
 D:\Visual Studio 2019\Windows Applications\Sci_CalWindowsApp1\Sci_CalWindowsApp1\obj\Debug\Sci_CalWindowsApp1.xml
 D:\Visual Studio 2019\Windows Applications\Sci_CalWindowsApp1\Sci_CalWindowsApp1\obj\Debug\Sci_CalWindowsApp1.pdb
+C:\Users\test001\Documents\IODFS\vb.net\Sci_CalWindowsApp1\Sci_CalWindowsApp1\bin\Debug\Sci_CalWindowsApp1.exe.config
+C:\Users\test001\Documents\IODFS\vb.net\Sci_CalWindowsApp1\Sci_CalWindowsApp1\bin\Debug\Sci_CalWindowsApp1.exe
+C:\Users\test001\Documents\IODFS\vb.net\Sci_CalWindowsApp1\Sci_CalWindowsApp1\bin\Debug\Sci_CalWindowsApp1.pdb
+C:\Users\test001\Documents\IODFS\vb.net\Sci_CalWindowsApp1\Sci_CalWindowsApp1\bin\Debug\Sci_CalWindowsApp1.xml
+C:\Users\test001\Documents\IODFS\vb.net\Sci_CalWindowsApp1\Sci_CalWindowsApp1\obj\Debug\Sci_CalWindowsApp1.vbprojAssemblyReference.cache
+C:\Users\test001\Documents\IODFS\vb.net\Sci_CalWindowsApp1\Sci_CalWindowsApp1\obj\Debug\Sci_CalWindowsApp1.Form1.resources
+C:\Users\test001\Documents\IODFS\vb.net\Sci_CalWindowsApp1\Sci_CalWindowsApp1\obj\Debug\Sci_CalWindowsApp1.Resources.resources
+C:\Users\test001\Documents\IODFS\vb.net\Sci_CalWindowsApp1\Sci_CalWindowsApp1\obj\Debug\Sci_CalWindowsApp1.vbproj.GenerateResource.cache
+C:\Users\test001\Documents\IODFS\vb.net\Sci_CalWindowsApp1\Sci_CalWindowsApp1\obj\Debug\Sci_CalWindowsApp1.exe
+C:\Users\test001\Documents\IODFS\vb.net\Sci_CalWindowsApp1\Sci_CalWindowsApp1\obj\Debug\Sci_CalWindowsApp1.xml
+C:\Users\test001\Documents\IODFS\vb.net\Sci_CalWindowsApp1\Sci_CalWindowsApp1\obj\Debug\Sci_CalWindowsApp1.pdb

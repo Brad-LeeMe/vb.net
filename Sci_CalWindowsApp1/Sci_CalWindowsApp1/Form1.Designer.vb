@@ -70,6 +70,7 @@ Partial Class Form1
         Me.NaviBtn = New System.Windows.Forms.Button()
         Me.HistoryBtn = New System.Windows.Forms.Button()
         Me.TitleLbl = New System.Windows.Forms.Label()
+        Me.Display = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'SinBtn
@@ -690,12 +691,25 @@ Partial Class Form1
         Me.TitleLbl.TabIndex = 48
         Me.TitleLbl.Text = "Scientific"
         '
+        'Display
+        '
+        Me.Display.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Display.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Display.Location = New System.Drawing.Point(3, 45)
+        Me.Display.MaximumSize = New System.Drawing.Size(500, 500)
+        Me.Display.Name = "Display"
+        Me.Display.Size = New System.Drawing.Size(305, 46)
+        Me.Display.TabIndex = 49
+        Me.Display.Text = "0"
+        Me.Display.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ControlLight
         Me.ClientSize = New System.Drawing.Size(320, 470)
+        Me.Controls.Add(Me.Display)
         Me.Controls.Add(Me.TitleLbl)
         Me.Controls.Add(Me.HistoryBtn)
         Me.Controls.Add(Me.NaviBtn)
@@ -799,4 +813,5 @@ Partial Class Form1
     Friend WithEvents NaviBtn As Button
     Friend WithEvents HistoryBtn As Button
     Friend WithEvents TitleLbl As Label
+    Friend WithEvents Display As Label
 End Class
